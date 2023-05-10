@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/business-card/static/js/main.00d7b49e.js",
+    "static/js/787.4ab32628.chunk.js": "/business-card/static/js/787.4ab32628.chunk.js",
+    "index.html": "/business-card/index.html",
+    "main.00d7b49e.js.map": "/business-card/static/js/main.00d7b49e.js.map",
+    "787.4ab32628.chunk.js.map": "/business-card/static/js/787.4ab32628.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.00d7b49e.js"
+  ]
+}
